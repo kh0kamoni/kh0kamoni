@@ -1,7 +1,7 @@
 # Security Researcher | Engineer | Bug Hunter
 
 Hi there! 👋  
-I'm a passionate student currently studying **Computer Science**, with deep interests in the fields of **Web Security**, **Network Security**, and **Reverse Engineering**.
+I'm a passionate student currently studying **Computer Science**, with deep interests in the fields of **Web Security**, **Network Security**, and **Reverse Engineering**. I am pushing my creativity through offensive security testing and applying those knowledge to solve real world challange efficiently.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a passionate student currently studying **Computer Science**, with deep inte
   - Reverse Engineering
   - Malware Development (for educational and research purposes)
 - 🐞 Bug Hunter actively involved in vulnerability research and responsible disclosure
-- 📄 Holder of multiple [CVE](https://cve.mitre.org/) entries for discovered vulnerabilities
+- Several CVEs are registered against my security bug reports
 
 ---
 
