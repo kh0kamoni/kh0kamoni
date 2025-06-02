@@ -1,4 +1,3 @@
-# Security Researcher | Engineer | Bug Hunter
 
 Hi there, I'm Khokamoni! 👋  
 I'm a passionate Computer Science student with strong interests in Web Security, Network Security, and Reverse Engineering. I channel my creativity through offensive security testing, leveraging practical skills and theoretical knowledge to tackle real-world security challenges with efficiency and precision.
