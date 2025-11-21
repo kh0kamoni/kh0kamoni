@@ -25,12 +25,12 @@ I'm a passionate Computer Science student with strong interests in Web Security,
 
 ---
 
-## 📫 Let's Connect
-
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [yourname](https://linkedin.com/in/yourname)
-- Blog/Website: [yourwebsite.com](https://yourwebsite.com)
-- CVEs: [Your CVE List on MITRE](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=yourname)
+- CVEs:
+- https://github.com/Intermesh/groupoffice/security/advisories/GHSA-xv2x-v374-92gv
+- https://github.com/Intermesh/groupoffice/security/advisories/GHSA-j35g-q5mc-jwgp
+- https://github.com/Intermesh/groupoffice/security/advisories/GHSA-phhq-3h8f-qxpx
+- https://github.com/Intermesh/groupoffice/security/advisories/GHSA-c49j-qvp9-vgg6
+- https://github.com/Intermesh/groupoffice/security/advisories/GHSA-45jj-r48j-75pp
 
 ---
 
