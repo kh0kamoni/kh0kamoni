@@ -1,5 +1,5 @@
 
-Hi there, I'm Khokamoni! 👋  
+Hi there, I'm Khokamoni! 
 I'm a passionate Computer Science student with strong interests in Web Security, Network Security, and Reverse Engineering. I channel my creativity through offensive security testing, leveraging practical skills and theoretical knowledge to tackle real-world security challenges with efficiency and precision.
 
 ---
@@ -31,11 +31,11 @@ I'm a passionate Computer Science student with strong interests in Web Security,
 - https://github.com/Intermesh/groupoffice/security/advisories/GHSA-phhq-3h8f-qxpx
 - https://github.com/Intermesh/groupoffice/security/advisories/GHSA-c49j-qvp9-vgg6
 - https://github.com/Intermesh/groupoffice/security/advisories/GHSA-45jj-r48j-75pp
+- https://github.com/YesWiki/yeswiki/security/advisories/GHSA-37fq-47qj-6j5j
 
 ---
 
 > “Hacking is not about breaking things. It’s about understanding them.”  
-> — Unknown
 
 ---
 
