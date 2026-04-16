@@ -1,22 +1,22 @@
+# Hi there, I'm Khokamoni! 👋
 
-Hi there, I'm Khokamoni! 
 I'm a passionate Computer Science student with strong interests in Web Security, Network Security, and Reverse Engineering. I channel my creativity through offensive security testing, leveraging practical skills and theoretical knowledge to tackle real-world security challenges with efficiency and precision.
 
 ---
 
 ## 🔍 About Me
 
-- 🎓 Computer Science student
-- 🛡️ Security Researcher with a focus on:
+-  Computer Science student
+-  Security Researcher with a focus on:
   - Web & Network Security
   - Reverse Engineering
   - Malware Development (for educational and research purposes)
-- 🐞 Bug Hunter actively involved in vulnerability research and responsible disclosure
+-  Bug Hunter actively involved in vulnerability research and responsible disclosure
 - Several CVEs are registered against my security bug reports
 
 ---
 
-## 🧠 Research Interests
+##  Research Interests
 
 - Web application vulnerabilities (XSS, IDOR, Auth Bypass, etc.)
 - Exploit development & malware analysis
@@ -25,7 +25,7 @@ I'm a passionate Computer Science student with strong interests in Web Security,
 
 ---
 
-### CVEs
+##  CVEs
 
 - **Intermesh GroupOffice**
   - [CVE-2025-48993](https://www.cve.org/CVERecord?id=CVE-2025-48993) · [GHSA-xv2x-v374-92gv](https://github.com/Intermesh/groupoffice/security/advisories/GHSA-xv2x-v374-92gv)
@@ -36,11 +36,16 @@ I'm a passionate Computer Science student with strong interests in Web Security,
 
 - **YesWiki**
   - [CVE-2026-34598](https://www.cve.org/CVERecord?id=CVE-2026-34598) · [GHSA-37fq-47qj-6j5j](https://github.com/YesWiki/yeswiki/security/advisories/GHSA-37fq-47qj-6j5j)
+
+- **Horilla**
+  - [CVE-2026-40867](https://www.cve.org/CVERecord?id=CVE-2026-40867) · [GHSA-j6qp-j853-qrff](https://github.com/horilla-opensource/horilla/security/advisories/GHSA-j6qp-j853-qrff)
+  - [CVE-2026-40866](https://www.cve.org/CVERecord?id=CVE-2026-40866) · [GHSA-q2qh-v828-r4p7](https://github.com/horilla-opensource/horilla/security/advisories/GHSA-q2qh-v828-r4p7)
+  - [CVE-2026-40865](https://www.cve.org/CVERecord?id=CVE-2026-40865) · [GHSA-85cj-fwjh-fjv7](https://github.com/horilla-opensource/horilla/security/advisories/GHSA-85cj-fwjh-fjv7)
+
 ---
 
-> “Hacking is not about breaking things. It’s about understanding them.”  
+> “Hacking is not about breaking things. It’s about understanding them.”
 
 ---
 
 Thanks for stopping by! Feel free to check out my repositories and get in touch if you'd like to collaborate or connect.
-
