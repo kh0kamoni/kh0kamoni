@@ -1,18 +1,6 @@
-# Hi there, I'm Khokamoni! 👋
+# Hi there, I'm Khoka Moni! 👋
 
 I'm a passionate Computer Science student with strong interests in Web Security, Network Security, and Reverse Engineering. I channel my creativity through offensive security testing, leveraging practical skills and theoretical knowledge to tackle real-world security challenges with efficiency and precision.
-
----
-
-## About Me
-
--  Computer Science student
--  Security Researcher with a focus on:
-  - Web & Network Security
-  - Reverse Engineering
-  - Malware Development (for educational and research purposes)
--  Bug Hunter actively involved in vulnerability research and responsible disclosure
-- Several CVEs are registered against my security bug reports
 
 ---
 
@@ -42,7 +30,7 @@ I'm a passionate Computer Science student with strong interests in Web Security,
   - [CVE-2025-48369](https://www.cve.org/CVERecord?id=CVE-2025-48369) · [Stored XSS in Tasks Comment Section](https://github.com/Intermesh/groupoffice/security/advisories/GHSA-45jj-r48j-75pp)
 
 
-
+More fixes are pending...
 
 ---
 
