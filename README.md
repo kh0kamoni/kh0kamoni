@@ -14,7 +14,7 @@ I'm a passionate Computer Science student with strong interests in Web Security,
 ---
 
 ## 🏆 CVEs
-**Horilla**
+**Horilla HR**
   - [CVE-2026-40867](https://www.cve.org/CVERecord?id=CVE-2026-40867) · [Unauthorized Helpdesk Attachment Access via Attachment ID Manipulation](https://github.com/horilla-opensource/horilla/security/advisories/GHSA-j6qp-j853-qrff)
   - [CVE-2026-40866](https://www.cve.org/CVERecord?id=CVE-2026-40866) · [Unauthorized Document Overwrite via File Upload Endpoint](https://github.com/horilla-opensource/horilla/security/advisories/GHSA-q2qh-v828-r4p7)
   - [CVE-2026-40865](https://www.cve.org/CVERecord?id=CVE-2026-40865) · [Insecure Direct Object Reference at /employee/view-file/&lt;int:id&gt;](https://github.com/horilla-opensource/horilla/security/advisories/GHSA-85cj-fwjh-fjv7)
